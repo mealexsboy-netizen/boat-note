@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">note-boat</string>
+    <string name="title_activity_main">note-boat</string>
+    <string name="package_name">com.touchsizx.grom</string>
+    <string name="custom_url_scheme">com.touchsizx.grom</string>
+</resources>
